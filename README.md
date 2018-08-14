@@ -6,7 +6,7 @@ This is a GUI application for simulating [Buffon's needle](https://en.wikipedia.
 - Numpy
 
 ## View
-
+![image1](https://github.com/mo-mo-666/Buffon/blob/images/image1.PNG)
 
 ## Caution
 
