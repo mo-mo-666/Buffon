@@ -1,4 +1,4 @@
-# Buffon's needle App
+# Buffon's Needle App
 This is a GUI application for simulating [Buffon's needle](https://en.wikipedia.org/wiki/Buffon%27s_needle), using tkinter. 
 
 ## Requirements
