@@ -11,4 +11,4 @@ This is a GUI application for simulating [Buffon's needle](https://en.wikipedia.
 ## Caution
 
 I expect the length *l* of needles is **the same as or smaller than** the distance *d* between lines.
-So, if *l* is larger than *d*, the estimation of π will be incorrect! 
+So, if *l* is larger than *d*, the estimated value of π will be incorrect! 
