@@ -4,7 +4,6 @@
 import numpy as np
 import tkinter as tk
 import tkinter.ttk as ttk
-import time
 
 
 WIDTH_X = 800
